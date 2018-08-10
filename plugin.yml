@@ -1,0 +1,6 @@
+name: TeamFight
+main: megalunchbox\Main
+version: 1.0
+api: 3.1.1
+author: Megalunchbox
+description: Team fighting plugin for practice servers
