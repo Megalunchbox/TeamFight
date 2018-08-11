@@ -9,7 +9,7 @@
 namespace megalunchbox;
 
 
-class TeamFight {
+class Team {
 
     private $redTeam;
     private $blueTeam;
